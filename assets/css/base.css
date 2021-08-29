@@ -5,6 +5,8 @@
     --text-color: #333;
     --border-color: #DBDBDB;
     --hover-color: #f65e39;
+
+    --header-height: 80px;
 }
 
 * {
