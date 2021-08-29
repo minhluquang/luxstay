@@ -52,8 +52,18 @@
     .hide-on-tablet {
         display: none;
     }
+    .some__discover {
+        overflow: hidden;
+    }
     .some__discover-item {
         height: 460px;
+    }
+    .some__discover-item-decs {
+        line-height: 3rem;
+        font-size: 2.6rem;
+    }
+    .some__idea {
+        overflow: hidden;
     }
     .footer__container {
         width: calc(100% - 40px);
@@ -71,6 +81,12 @@
     }
     .slick-next {
         right: 15px;
+    }
+    .pro__place {
+        overflow: hidden;
+    }
+    .sale__off {
+        overflow: hidden;
     }
 }
 

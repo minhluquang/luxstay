@@ -1134,6 +1134,14 @@ span.header__field-label.js-header__field-label-member {
 }
 
 /* ƯU ĐÃI ĐỘC QUYỀN */
+.safe__off-container {
+    display: flex;
+    align-items: center;
+}
+.safe__off-btn-container {
+    display: flex;
+    align-items: center;
+}
 .sale__off {
     position: relative;
 }
@@ -1296,6 +1304,15 @@ span.header__field-label.js-header__field-label-member {
 /* HOW TO USE */
 .guide {
 
+}
+
+.guide-container {
+    display: flex;
+}
+
+.guide-btn-container {
+    display: flex;
+    align-items: center;
 }
 
 .guide::-webkit-scrollbar {

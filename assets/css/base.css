@@ -117,7 +117,9 @@ html {
 .mt-50 {
     margin-top: 50px;
 }
-
+.mb-10 {
+    margin-bottom: 10px;
+}
 .mb-70 {
     margin-bottom: 70px;
 }
